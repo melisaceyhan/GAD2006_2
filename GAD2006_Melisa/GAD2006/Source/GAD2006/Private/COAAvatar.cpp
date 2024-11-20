@@ -56,7 +56,7 @@ void ACOAAvatar::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent
 
 void ACOAAvatar::RunPressed()
 {
-	// Koşma başlatma
+	
 	if (Stamina > 0.0f && !bStaminaDrained)
 	{
 		bRunning = true;
@@ -66,7 +66,7 @@ void ACOAAvatar::RunPressed()
 
 void ACOAAvatar::RunReleased()
 {
-	// Koşmayı bırakma
+	
 	if (bRunning)
 	{
 		bRunning = false;
@@ -94,7 +94,7 @@ void ACOAAvatar::MoveRight(float value)
 }
 void ACOAAvatar::Tick(float DeltaTime)
 {
-	// Stamina kontrolü
+	
 	if (bRunning && !bStaminaDrained)
 	{
 		if (GetCharacterMovement()->MovementMode == MOVE_Walking)
@@ -105,7 +105,7 @@ void ACOAAvatar::Tick(float DeltaTime)
 			{
 				bRunning = false;
 				bStaminaDrained = true;
-				Stamina = 0.0f;  // Stamina'nın negatif değerlere düşmesini engelle
+				Stamina = 0.0f;  
 				UpdateMovement();
 			}
 		}
@@ -116,7 +116,7 @@ void ACOAAvatar::Tick(float DeltaTime)
 		{
 			Stamina += StaminaRecoveryRate * DeltaTime;
 
-			// Stamina maksimum seviyeye ulaşırsa normale döner
+			
 			if (Stamina >= MaxStamina)
 			{
 				bStaminaDrained = false;
