@@ -988,3 +988,7 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.30-21.12.39:556][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2024.11.30-21.12.39:608][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2024.11.30-21.12.40:058][ 12]LogSourceControl: Uncontrolled asset enumeration finished in 0.507489 seconds (Found 7026 uncontrolled assets)
+[2024.11.30-21.13.37:814][863]LogSlate: Took 0.000532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.30-21.14.29:083][180]LogDerivedDataCache: C:/Users/melis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.30-21.29.51:394][446]LogSlate: Took 0.000543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.30-21.30.07:669][741]LogSlate: Window 'Add C++ Class' being destroyed
