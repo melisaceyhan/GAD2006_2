@@ -1,4 +1,5 @@
 /I "."
+/I "C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2\Source\labwork2\Private"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT"
 /I "Runtime\Engine\Classes"
 /I "Runtime\Engine\Public"
