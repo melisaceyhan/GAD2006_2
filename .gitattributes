@@ -1,0 +1,10 @@
+# Normalize text files to use LF on checkout and CRLF on commit (if necessary for Windows)
+* text=auto
+
+# Ensure binary files are treated correctly
+*.exe binary
+*.dll binary
+*.png binary
+*.jpg binary
+*.uasset binary
+*.umap binary
