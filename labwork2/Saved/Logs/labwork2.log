@@ -1047,3 +1047,298 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.30-21.56.14:134][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2024.11.30-21.56.14:795][ 23]LogSourceControl: Uncontrolled asset enumeration finished in 0.709156 seconds (Found 7081 uncontrolled assets)
 [2024.11.30-21.56.15:297][ 56]LogSlate: Took 0.007726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.30-21.56.48:435][916]LogSlate: External Image Picker: DecompressImage failed
+[2024.11.30-21.56.55:250][434]LogLinker: Warning: Failed to load '/Game/Blueprints/BP_GameMode': Can't find file.
+[2024.11.30-21.56.55:250][434]LogLinker: Warning: Failed to load '/Game/Blueprints/BP_GameMode': Can't find file.
+[2024.11.30-21.56.55:250][434]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_GameMode.BP_GameMode_C'
+[2024.11.30-21.56.55:250][434]EditorErrors: Error: Failed to load class /Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2024.11.30-21.57.04:042][154]LogSlate: Window 'Project Settings' being destroyed
+[2024.11.30-21.57.04:047][154]LogSlate: Window 'Project Settings' being destroyed
+[2024.11.30-21.57.50:402][829]LogDerivedDataCache: C:/Users/melis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.009 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.30-22.00.23:029][825]LogSlate: Window 'Levels' being destroyed
+[2024.11.30-22.00.23:034][825]LogSlate: Window 'Levels' being destroyed
+[2024.11.30-22.01.47:503][667]LogLinker: Warning: [AssetLog] C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2\Content\Content\Blueprints\BP_GameMode.uasset: Failed to load '/Game/Blueprints/BP_Pawn': Can't find file.
+[2024.11.30-22.01.47:503][667]LogLinker: Warning: [AssetLog] C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2\Content\Content\Blueprints\BP_GameMode.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Blueprints/BP_Pawn'
+[2024.11.30-22.01.47:507][667]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Content/Blueprints/BP_GameMode.BP_GameMode
+[2024.11.30-22.01.56:377][114]LogSlate: Window 'BP_GameMode' being destroyed
+[2024.11.30-22.01.56:393][114]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.11.30-22.01.56:393][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-22.01.56:411][114]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Content/Blueprints/BP_GameMode.BP_GameMode
+[2024.11.30-22.01.57:247][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.11.30-22.02.04:689][396]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.30-22.02.53:711][621]LogSlate: Window 'BP_GameMode' being destroyed
+[2024.11.30-22.02.53:716][621]LogSlate: Window 'BP_GameMode' being destroyed
+[2024.11.30-22.02.53:722][621]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.11.30-22.02.53:722][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-22.02.53:834][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.11.30-22.03.00:428][943]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.11.30-22.03.24:236][ 93]LogSlate: Window 'New Level' being destroyed
+[2024.11.30-22.03.24:254][ 93]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.30-22.03.24:286][ 93]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.30-22.03.24:286][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-22.03.24:286][ 93]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.11.30-22.03.24:292][ 93]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.30-22.03.24:293][ 93]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.30-22.03.24:293][ 93]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.30-22.03.24:309][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.30-22.03.24:322][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.11.30-22.03.24:373][ 93]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2024.11.30-22.03.24:373][ 93]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.30-22.03.24:388][ 93]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.30-22.03.24:403][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.11.30-22.03.24:404][ 93]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.30-22.03.24:404][ 93]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,184ms to complete.
+[2024.11.30-22.04.16:229][355]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.30-22.04.16:240][355]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.30-22.04.16:248][355]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.30-22.04.19:986][355]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2024.11.30-22.04.19:987][355]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.30-22.04.29:807][355]LogSlate: Window 'Save Level As' being destroyed
+[2024.11.30-22.04.30:025][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.11.30-22.04.30:038][355]LogPackageLocalizationCache: Processed 51 localized package path(s) for 1 prioritized culture(s) in 0.007650 seconds
+[2024.11.30-22.04.30:047][355]LogSavePackage: Moving output files for package: /Game/Maps/map_labwork2_melisa
+[2024.11.30-22.04.30:047][355]LogSavePackage: Moving '../../../../../../Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/labwork2/Saved/map_labwork2_melisa5B497C8D4A4880266D08D0BB075580FF.tmp' to '../../../../../../Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/labwork2/Content/Maps/map_labwork2_melisa.umap'
+[2024.11.30-22.04.30:069][355]LogFileHelpers: Saving map 'map_labwork2_melisa' took 0.220
+[2024.11.30-22.04.30:069][355]Cmd: MAP LOAD FILE="../../../../../../Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/labwork2/Content/Maps/map_labwork2_melisa.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.30-22.04.30:121][355]LogWorld: UWorld::CleanupWorld for map_labwork2_melisa, bSessionEnded=true, bCleanupResources=true
+[2024.11.30-22.04.30:121][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-22.04.30:121][355]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.30-22.04.30:121][355]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.30-22.04.30:135][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.30-22.04.30:137][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.11.30-22.04.30:140][355]LogAudio: Display: Audio Device (ID: 1) registered with world 'map_labwork2_melisa'.
+[2024.11.30-22.04.30:140][355]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.30-22.04.30:152][355]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.30-22.04.30:170][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.11.30-22.04.30:174][355]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.30-22.04.30:174][355]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,107ms to complete.
+[2024.11.30-22.04.30:326][355]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.30-22.04.30:326][355]LogContentValidation: Enabled validators:
+[2024.11.30-22.04.30:326][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.30-22.04.30:326][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.30-22.04.30:326][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.30-22.04.30:326][355]LogContentValidation: Display: Validating asset /Game/Maps/map_labwork2_melisa.map_labwork2_melisa
+[2024.11.30-22.04.30:327][355]AssetCheck: /Game/Maps/map_labwork2_melisa Validating asset
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: ================================================
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Total job queries 187, among them cache hits 15 (8.02%), DDC hits 163 (87.17%), Duplicates 5 (2.67%)
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Tracking 167 distinct input hashes that result in 152 distinct outputs (91.02%)
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: RAM used: 5,34 MiB of 819,20 MiB budget. Usage: 0.65%
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 1.25 s
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Job life time (pending + execution): average 1.07 s, max 1.32
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Shader code size: average 33,771 KiB, min 32,082 KiB, max 35,863 KiB
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.32 s
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.14%
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Average processing rate: 3.02 jobs/sec
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Total thread time: 1,672 s
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Total thread preprocess time: 2,662 s
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Percentage time preprocessing: 159.21%
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Effective parallelization: 1.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 38.89% of total time (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 27.82% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2024.11.30-22.05.13:485][608]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.90% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.11.30-22.05.13:486][608]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.39% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.11.30-22.05.13:486][608]LogShaderCompilers: Display:                   FRenderVolumetricCloudEmptySpaceSkippingCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.30-22.05.13:486][608]LogShaderCompilers: Display: === Material stats ===
+[2024.11.30-22.05.13:486][608]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.30-22.05.13:486][608]LogShaderCompilers: Display: Materials Translated:    122
+[2024.11.30-22.05.13:486][608]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.11.30-22.05.13:486][608]LogShaderCompilers: Display: Material Translation Only: 0.05 s (43%)
+[2024.11.30-22.05.13:486][608]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.11.30-22.05.13:486][608]LogShaderCompilers: Display: Material Cache Hits: 32 (26%)
+[2024.11.30-22.05.13:486][608]LogShaderCompilers: Display: ================================================
+[2024.11.30-22.06.12:675][ 52]LogSlate: External Image Picker: DecompressImage failed
+[2024.11.30-22.07.02:529][982]EditorErrors: Error: Failed to load class /Game/Blueprints/BP_Pawn.BP_Pawn_C
+[2024.11.30-22.07.05:042][118]EditorErrors: Error: Failed to load class /Game/Blueprints/BP_Pawn.BP_Pawn_C
+[2024.11.30-22.07.14:175][646]EditorErrors: Error: Failed to load class /Game/Blueprints/BP_Pawn.BP_Pawn_C
+[2024.11.30-22.08.06:835][408]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Content/Blueprints/BP_GameMode.BP_GameMode
+[2024.11.30-22.08.07:411][408]LogSlate: Took 0.005740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.30-22.08.19:387][ 92]EditorErrors: Error: Failed to load class /Game/Blueprints/BP_Pawn.BP_Pawn_C
+[2024.11.30-22.08.22:374][261]EditorErrors: Error: Failed to load class /Game/Blueprints/BP_Pawn.BP_Pawn_C
+[2024.11.30-22.08.24:327][371]EditorErrors: Error: Failed to load class /Game/Blueprints/BP_Pawn.BP_Pawn_C
+[2024.11.30-22.08.28:322][602]EditorErrors: Error: Failed to load class /Game/Blueprints/BP_Pawn.BP_Pawn_C
+[2024.11.30-22.08.33:006][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.11.30-22.08.42:531][433]EditorErrors: Error: Failed to load class /Game/Blueprints/BP_Pawn.BP_Pawn_C
+[2024.11.30-22.08.46:365][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.30-22.08.46:467][619]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Content/Blueprints/BP_GameMode] ([2] browsable assets)...
+[2024.11.30-22.08.46:467][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Blueprints/BP_GameMode]
+[2024.11.30-22.08.46:473][619]LogSavePackage: Moving output files for package: /Game/Content/Blueprints/BP_GameMode
+[2024.11.30-22.08.46:473][619]LogSavePackage: Moving '../../../../../../Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/labwork2/Saved/BP_GameModeBBCC0F844C61741AD83F27AF5DA8F5E8.tmp' to '../../../../../../Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/labwork2/Content/Content/Blueprints/BP_GameMode.uasset'
+[2024.11.30-22.08.46:486][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.274 ms
+[2024.11.30-22.08.46:624][619]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.30-22.08.46:624][619]LogContentValidation: Enabled validators:
+[2024.11.30-22.08.46:624][619]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.30-22.08.46:624][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.30-22.08.46:624][619]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.30-22.08.46:624][619]LogContentValidation: Display: Validating asset /Game/Content/Blueprints/BP_GameMode.BP_GameMode
+[2024.11.30-22.08.46:624][619]AssetCheck: /Game/Content/Blueprints/BP_GameMode Validating asset
+[2024.11.30-22.09.01:033][443]EditorErrors: Error: Failed to load class /Game/Blueprints/BP_Pawn.BP_Pawn_C
+[2024.11.30-22.09.07:008][778]EditorErrors: Error: Failed to load class /Game/Blueprints/BP_Pawn.BP_Pawn_C
+[2024.11.30-22.11.13:653][153]EditorErrors: Error: Failed to load class /Game/Blueprints/BP_Pawn.BP_Pawn_C
+[2024.11.30-22.11.17:763][392]LogSlate: Window 'Project Settings' being destroyed
+[2024.11.30-22.11.17:771][392]LogSlate: Window 'Project Settings' being destroyed
+[2024.11.30-22.11.18:863][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.11.30-22.11.21:388][594]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.30-22.11.21:399][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.30-22.11.21:407][594]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.11.30-22.11.21:407][594]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.11.30-22.11.21:410][594]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_map_labwork2_melisa
+[2024.11.30-22.11.21:414][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003656s)
+[2024.11.30-22.11.21:414][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/map_labwork2_melisa.map_labwork2_melisa to /Game/Maps/UEDPIE_0_map_labwork2_melisa.map_labwork2_melisa (0.003878s)
+[2024.11.30-22.11.21:430][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.30-22.11.21:435][594]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.30-22.11.21:436][594]LogPlayLevel: PIE: World Init took: (0.002713s)
+[2024.11.30-22.11.21:446][594]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.11.30-22.11.21:446][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.30-22.11.21:446][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.30-22.11.21:446][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.30-22.11.21:446][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.30-22.11.21:446][594]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.30-22.11.21:446][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.30-22.11.21:446][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.30-22.11.21:446][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.30-22.11.21:446][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.30-22.11.21:446][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.30-22.11.21:446][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.30-22.11.21:447][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.30-22.11.21:492][594]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.30-22.11.21:492][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.30-22.11.21:493][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.30-22.11.21:493][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.30-22.11.21:493][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.11.30-22.11.21:493][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.11.30-22.11.21:495][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.11.30-22.11.21:495][594]LogInit: FAudioDevice initialized with ID 2.
+[2024.11.30-22.11.21:495][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.11.30-22.11.21:495][594]LogAudio: Display: Audio Device (ID: 2) registered with world 'map_labwork2_melisa'.
+[2024.11.30-22.11.21:495][594]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.11.30-22.11.21:501][594]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.30-22.11.21:503][594]LogWorld: Bringing World /Game/Maps/UEDPIE_0_map_labwork2_melisa.map_labwork2_melisa up for play (max tick rate 60) at 2024.12.01-01.11.21
+[2024.11.30-22.11.21:504][594]LogWorld: Bringing up level for play took: 0.001541
+[2024.11.30-22.11.21:507][594]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.11.30-22.11.21:540][594]PIE: Server logged in
+[2024.11.30-22.11.21:541][594]PIE: Play in editor total start time 0,147 seconds.
+[2024.11.30-22.11.25:274][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.30-22.11.25:274][809]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_map_labwork2_melisa
+[2024.11.30-22.11.25:292][809]LogWorld: UWorld::CleanupWorld for map_labwork2_melisa, bSessionEnded=true, bCleanupResources=true
+[2024.11.30-22.11.25:294][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-22.11.25:294][809]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.30-22.11.25:294][809]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.30-22.11.25:326][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.30-22.11.25:329][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-22.11.25:342][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.30-22.11.25:345][809]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.11.30-22.11.25:375][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.11.30-22.11.25:381][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.11.30-22.11.25:447][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.11.30-22.11.25:546][810]Cmd: SELECT NONE
+[2024.11.30-22.11.25:639][810]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.11.30-22.11.26:156][839]Cmd: SELECT NONE
+[2024.11.30-22.11.46:376][621]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.30-22.11.47:009][659]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.30-22.11.47:476][687]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.30-22.11.49:422][795]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.30-22.11.50:309][847]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.30-22.12.28:295][749]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Content/Blueprints/BP_Pawn.BP_Pawn
+[2024.11.30-22.12.30:789][890]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.11.30-22.12.30:789][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-22.12.30:802][890]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Content/Blueprints/BP_Pawn.BP_Pawn
+[2024.11.30-22.12.30:901][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.11.30-22.12.49:225][970]LogEditorTransaction: Undo Add Node
+[2024.11.30-22.13.46:754][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.11.30-22.13.46:757][777]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/map_labwork2_melisa' took 0.021
+[2024.11.30-22.13.46:759][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Content/Blueprints/BP_GameMode] ([2] browsable assets)...
+[2024.11.30-22.13.46:759][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Blueprints/BP_GameMode]
+[2024.11.30-22.13.46:762][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Content/Blueprints/BP_GameMode_Auto1
+[2024.11.30-22.13.46:762][777]LogSavePackage: Moving '../../../../../../Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/labwork2/Saved/BP_GameMode_Auto15E11CF3D43BDAB437A646FA3B787C703.tmp' to '../../../../../../Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/labwork2/Saved/Autosaves/Game/Content/Blueprints/BP_GameMode_Auto1.uasset'
+[2024.11.30-22.13.46:762][777]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.11.30-22.14.26:117][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.11.30-22.14.28:773][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.30-22.14.28:866][421]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Content/Blueprints/BP_GameMode] ([2] browsable assets)...
+[2024.11.30-22.14.28:866][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Blueprints/BP_GameMode]
+[2024.11.30-22.14.28:868][421]LogSavePackage: Moving output files for package: /Game/Content/Blueprints/BP_GameMode
+[2024.11.30-22.14.28:869][421]LogSavePackage: Moving '../../../../../../Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/labwork2/Saved/BP_GameMode7011C4874F707B8AC997449A7884F15B.tmp' to '../../../../../../Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/labwork2/Content/Content/Blueprints/BP_GameMode.uasset'
+[2024.11.30-22.14.28:878][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.629 ms (total: 226.904 ms)
+[2024.11.30-22.14.29:108][421]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.30-22.14.29:108][421]LogContentValidation: Enabled validators:
+[2024.11.30-22.14.29:108][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.30-22.14.29:108][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.30-22.14.29:108][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.30-22.14.29:108][421]LogContentValidation: Display: Validating asset /Game/Content/Blueprints/BP_GameMode.BP_GameMode
+[2024.11.30-22.14.29:108][421]AssetCheck: /Game/Content/Blueprints/BP_GameMode Validating asset
+[2024.11.30-22.14.29:665][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.11.30-22.14.34:630][707]LogSlate: Window 'BP_Pawn' being destroyed
+[2024.11.30-22.14.34:637][707]LogSlate: Window 'BP_Pawn' being destroyed
+[2024.11.30-22.14.34:642][707]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.11.30-22.14.34:642][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-22.14.34:670][707]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.30-22.14.34:670][707]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.11.30-22.14.34:670][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-22.14.34:713][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.11.30-22.14.39:955][952]LogSlate: External Image Picker: DecompressImage failed
+[2024.11.30-22.15.02:482][272]LogSlate: Window 'Project Settings' being destroyed
+[2024.11.30-22.15.02:489][272]LogSlate: Window 'Project Settings' being destroyed
+[2024.11.30-22.15.21:224][517]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.30-22.15.21:242][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.30-22.15.21:280][517]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_map_labwork2_melisa
+[2024.11.30-22.15.21:282][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001395s)
+[2024.11.30-22.15.21:282][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/map_labwork2_melisa.map_labwork2_melisa to /Game/Maps/UEDPIE_0_map_labwork2_melisa.map_labwork2_melisa (0.001441s)
+[2024.11.30-22.15.21:298][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.11.30-22.15.21:300][517]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.30-22.15.21:300][517]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2024.11.30-22.15.21:308][517]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.11.30-22.15.21:308][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.30-22.15.21:308][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.30-22.15.21:308][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.30-22.15.21:308][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.30-22.15.21:308][517]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.30-22.15.21:308][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.30-22.15.21:308][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.30-22.15.21:308][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.30-22.15.21:308][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.30-22.15.21:308][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.30-22.15.21:308][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.30-22.15.21:311][517]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.30-22.15.21:387][517]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.30-22.15.21:388][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.30-22.15.21:388][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.30-22.15.21:388][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.30-22.15.21:389][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.11.30-22.15.21:389][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.11.30-22.15.21:390][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.11.30-22.15.21:390][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.11.30-22.15.21:390][517]LogInit: FAudioDevice initialized with ID 3.
+[2024.11.30-22.15.21:390][517]LogAudio: Display: Audio Device (ID: 3) registered with world 'map_labwork2_melisa'.
+[2024.11.30-22.15.21:390][517]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.30-22.15.21:392][517]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.30-22.15.21:393][517]LogWorld: Bringing World /Game/Maps/UEDPIE_0_map_labwork2_melisa.map_labwork2_melisa up for play (max tick rate 60) at 2024.12.01-01.15.21
+[2024.11.30-22.15.21:393][517]LogWorld: Bringing up level for play took: 0.000604
+[2024.11.30-22.15.21:395][517]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.11.30-22.15.21:406][517]PIE: Server logged in
+[2024.11.30-22.15.21:407][517]PIE: Play in editor total start time 0,178 seconds.
+[2024.11.30-22.15.25:041][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.30-22.15.25:041][728]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_map_labwork2_melisa
+[2024.11.30-22.15.25:041][728]LogWorld: UWorld::CleanupWorld for map_labwork2_melisa, bSessionEnded=true, bCleanupResources=true
+[2024.11.30-22.15.25:041][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-22.15.25:041][728]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.30-22.15.25:041][728]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.30-22.15.25:044][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.30-22.15.25:048][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-22.15.25:063][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.30-22.15.25:063][728]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.30-22.15.25:063][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.30-22.15.25:065][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.30-22.15.25:073][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.11.30-22.15.25:123][729]LogPlayLevel: Display: Destroying online subsystem :Context_10
