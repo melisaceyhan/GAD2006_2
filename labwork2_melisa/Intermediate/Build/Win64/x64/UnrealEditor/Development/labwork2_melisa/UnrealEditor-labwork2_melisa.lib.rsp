@@ -7,9 +7,13 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2_melisa\Intermediate\Build\Win64\x64\labwork2_melisaEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2_melisa\Intermediate\Build\Win64\x64\UnrealEditor\Development\labwork2_melisa\GameGrid.gen.cpp.obj"
+"C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2_melisa\Intermediate\Build\Win64\x64\UnrealEditor\Development\labwork2_melisa\GameSlot.gen.cpp.obj"
 "C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2_melisa\Intermediate\Build\Win64\x64\UnrealEditor\Development\labwork2_melisa\labwork2_melisa.init.gen.cpp.obj"
 "C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2_melisa\Intermediate\Build\Win64\x64\UnrealEditor\Development\labwork2_melisa\MyActor.gen.cpp.obj"
 "C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2_melisa\Intermediate\Build\Win64\x64\UnrealEditor\Development\labwork2_melisa\labwork2_melisa.cpp.obj"
 "C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2_melisa\Intermediate\Build\Win64\x64\UnrealEditor\Development\labwork2_melisa\MyActor.cpp.obj"
+"C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2_melisa\Intermediate\Build\Win64\x64\UnrealEditor\Development\labwork2_melisa\GameGrid.cpp.obj"
+"C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2_melisa\Intermediate\Build\Win64\x64\UnrealEditor\Development\labwork2_melisa\GameSlot.cpp.obj"
 "C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2_melisa\Intermediate\Build\Win64\x64\UnrealEditor\Development\labwork2_melisa\Default.rc2.res"
 /OUT:"C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006_2\labwork2_melisa\Intermediate\Build\Win64\x64\UnrealEditor\Development\labwork2_melisa\UnrealEditor-labwork2_melisa.lib"

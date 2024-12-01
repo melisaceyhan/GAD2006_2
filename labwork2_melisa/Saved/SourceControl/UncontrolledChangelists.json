@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/labwork2_melisa/Content/map_labwork2_melisa.umap",
-				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/labwork2_melisa/Content/Blueprints/BP_GameMode.uasset"
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/labwork2_melisa/Content/Blueprints/BP_GameMode.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/labwork2_melisa/Content/Blueprints/BP_GameGrid.uasset"
 			]
 		}
 	]

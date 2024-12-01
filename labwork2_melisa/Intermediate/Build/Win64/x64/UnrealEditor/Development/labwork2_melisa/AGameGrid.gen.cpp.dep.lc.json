@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\melis\\onedrive\\belgeler\\github\\gad2006_2\\labwork2_melisa\\intermediate\\build\\win64\\unrealeditor\\inc\\labwork2_melisa\\uht\\agamegrid.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\melis\\onedrive\\belgeler\\github\\gad2006_2\\labwork2_melisa\\intermediate\\build\\win64\\x64\\labwork2_melisaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\melis\\onedrive\\belgeler\\github\\gad2006_2\\labwork2_melisa\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\labwork2_melisa\\definitions.labwork2_melisa.h",
+            "c:\\users\\melis\\onedrive\\belgeler\\github\\gad2006_2\\labwork2_melisa\\source\\labwork2_melisa\\private\\agamegrid.h",
+            "c:\\users\\melis\\onedrive\\belgeler\\github\\gad2006_2\\labwork2_melisa\\intermediate\\build\\win64\\unrealeditor\\inc\\labwork2_melisa\\uht\\agamegrid.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

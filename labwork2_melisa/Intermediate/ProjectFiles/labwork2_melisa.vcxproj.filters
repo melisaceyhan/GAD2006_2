@@ -11,6 +11,7 @@
     <None Include="..\..\Source\labwork2_melisaEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -46,6 +47,27 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\labwork2_melisa\MyActor.h">
       <Filter>Source\labwork2_melisa</Filter>
+    </ClInclude>
+    <Filter Include="Source\labwork2_melisa\Private">
+      <UniqueIdentifier>{78A4804E-9802-3F29-AA55-0E0FF05F9B33}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\labwork2_melisa\Private\FSGridPosition.cpp">
+      <Filter>Source\labwork2_melisa\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\labwork2_melisa\Private\FSGridPosition.h">
+      <Filter>Source\labwork2_melisa\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\labwork2_melisa\Private\GameGrid.cpp">
+      <Filter>Source\labwork2_melisa\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\labwork2_melisa\Private\GameGrid.h">
+      <Filter>Source\labwork2_melisa\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\labwork2_melisa\Private\GameSlot.cpp">
+      <Filter>Source\labwork2_melisa\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\labwork2_melisa\Private\GameSlot.h">
+      <Filter>Source\labwork2_melisa\Private</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
