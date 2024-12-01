@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\labwork2_melisa.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\labwork2_melisa.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\labwork2_melisaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\labwork2_melisa">
+      <UniqueIdentifier>{E541FFAC-69FC-37D7-AE1E-4140D874E6BD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\labwork2_melisa\labwork2_melisa.Build.cs">
+      <Filter>Source\labwork2_melisa</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\labwork2_melisa\labwork2_melisa.cpp">
+      <Filter>Source\labwork2_melisa</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\labwork2_melisa\labwork2_melisa.h">
+      <Filter>Source\labwork2_melisa</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\labwork2_melisa\MyActor.cpp">
+      <Filter>Source\labwork2_melisa</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\labwork2_melisa\MyActor.h">
+      <Filter>Source\labwork2_melisa</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
