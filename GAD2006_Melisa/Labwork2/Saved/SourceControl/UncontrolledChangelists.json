@@ -5,7 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/melis/Downloads/GAD2006-main (1)/GAD2006-main/Labwork2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/melis/Downloads/GAD2006-main (1)/GAD2006-main/Labwork2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/melis/Downloads/GAD2006-main (1)/GAD2006-main/Labwork2/Content/melisa.umap",
+				"C:/Users/melis/Downloads/GAD2006-main (1)/GAD2006-main/Labwork2/Content/NewMap.umap",
+				"C:/Users/melis/Downloads/GAD2006-main (1)/GAD2006-main/Labwork2/Content/map_labwork2_melisa.umap",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/Mats/DefaultSlotUIImage.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/Mats/MAT_GridSlot.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/Mats/MAT_GridSlot_Highlighted.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/Mats/MAT_GridSlot_Offensive.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/Mats/MAT_GridSlot_Supportive.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/Mats/SlotImage.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/Mats/TargetSlotOffense.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/Mats/TargetSlotSupport.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/TargetSlotSupport.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/TargetSlotOffense.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/SlotImage.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/MAT_GridSlot_Supportive.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/MAT_GridSlot_Offensive.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/MAT_GridSlot_Highlighted.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/MAT_GridSlot.uasset",
+				"C:/Users/melis/OneDrive/Belgeler/GitHub/GAD2006_2/GAD2006_Melisa/Labwork2/Content/Materials/DefaultSlotUIImage.uasset"
 			]
 		}
 	]
