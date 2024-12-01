@@ -10,7 +10,7 @@
 class Command
 {
 public:
-	Command();
+	Command(); 
 	~Command();
 
 	virtual void Execute() = 0;

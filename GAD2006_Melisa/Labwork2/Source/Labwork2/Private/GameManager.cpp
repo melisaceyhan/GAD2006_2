@@ -15,8 +15,8 @@ AGameManager::AGameManager()
 }
 
 
-
  
+
 void AGameManager::BeginPlay()
 {
 	Super::BeginPlay();
