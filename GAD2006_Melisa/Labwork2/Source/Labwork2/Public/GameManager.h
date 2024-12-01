@@ -36,7 +36,7 @@ class LABWORK2_API AGameManager : public AActor
 	GENERATED_BODY()
 	
 public:	
-	// Sets default values for this actor's properties
+	 
 	AGameManager();
 
 	void OnActorClicked(AActor* Actor, FKey button);
@@ -53,11 +53,11 @@ public:
 	AGameGrid* GameGrid;
 	
 protected:
-	// Called when the game starts or when spawned
+	 
 	virtual void BeginPlay() override;
 
 public:	
-	// Called every frame
+	 
 	virtual void Tick(float DeltaTime) override;
 
 private:
