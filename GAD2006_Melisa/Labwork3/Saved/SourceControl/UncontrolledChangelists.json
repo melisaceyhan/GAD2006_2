@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/melis/Downloads/GAD2006-main/GAD2006-main/Labwork3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/melis/Downloads/GAD2006-main/GAD2006-main/Labwork3/Content/Maps/NewMap2.umap",
+				"C:/Users/melis/Downloads/GAD2006-main/GAD2006-main/Labwork3/Content/Maps/Map_Melisa_Labwork3.umap"
+			]
+		}
+	]
+}

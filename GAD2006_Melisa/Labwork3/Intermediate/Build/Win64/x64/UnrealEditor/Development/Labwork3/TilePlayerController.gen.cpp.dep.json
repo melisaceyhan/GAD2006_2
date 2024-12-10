@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\melis\\downloads\\gad2006-main\\gad2006-main\\labwork3\\intermediate\\build\\win64\\unrealeditor\\inc\\labwork3\\uht\\tileplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\melis\\downloads\\gad2006-main\\gad2006-main\\labwork3\\intermediate\\build\\win64\\x64\\labwork3editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\melis\\downloads\\gad2006-main\\gad2006-main\\labwork3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\labwork3\\definitions.labwork3.h",
+            "c:\\users\\melis\\downloads\\gad2006-main\\gad2006-main\\labwork3\\source\\labwork3\\public\\tileplayercontroller.h",
+            "c:\\users\\melis\\downloads\\gad2006-main\\gad2006-main\\labwork3\\intermediate\\build\\win64\\unrealeditor\\inc\\labwork3\\uht\\tileplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define LABWORK2_GameGrid_generated_h
 
-#define FID_Users_melis_Downloads_GAD2006_main__1__GAD2006_main_Labwork2_Source_Labwork2_Private_GameGrid_h_14_INCLASS_NO_PURE_DECLS \
+#define FID_GitHub_GAD2006_2_GAD2006_Melisa_Labwork2_Source_Labwork2_Private_GameGrid_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAGameGrid(); \
 	friend struct Z_Construct_UClass_AGameGrid_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(AGameGrid)
 
 
-#define FID_Users_melis_Downloads_GAD2006_main__1__GAD2006_main_Labwork2_Source_Labwork2_Private_GameGrid_h_14_ENHANCED_CONSTRUCTORS \
+#define FID_GitHub_GAD2006_2_GAD2006_Melisa_Labwork2_Source_Labwork2_Private_GameGrid_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AGameGrid(AGameGrid&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~AGameGrid();
 
 
-#define FID_Users_melis_Downloads_GAD2006_main__1__GAD2006_main_Labwork2_Source_Labwork2_Private_GameGrid_h_11_PROLOG
-#define FID_Users_melis_Downloads_GAD2006_main__1__GAD2006_main_Labwork2_Source_Labwork2_Private_GameGrid_h_14_GENERATED_BODY \
+#define FID_GitHub_GAD2006_2_GAD2006_Melisa_Labwork2_Source_Labwork2_Private_GameGrid_h_11_PROLOG
+#define FID_GitHub_GAD2006_2_GAD2006_Melisa_Labwork2_Source_Labwork2_Private_GameGrid_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_melis_Downloads_GAD2006_main__1__GAD2006_main_Labwork2_Source_Labwork2_Private_GameGrid_h_14_INCLASS_NO_PURE_DECLS \
-	FID_Users_melis_Downloads_GAD2006_main__1__GAD2006_main_Labwork2_Source_Labwork2_Private_GameGrid_h_14_ENHANCED_CONSTRUCTORS \
+	FID_GitHub_GAD2006_2_GAD2006_Melisa_Labwork2_Source_Labwork2_Private_GameGrid_h_14_INCLASS_NO_PURE_DECLS \
+	FID_GitHub_GAD2006_2_GAD2006_Melisa_Labwork2_Source_Labwork2_Private_GameGrid_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> LABWORK2_API UClass* StaticClass<class AGameGrid>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_melis_Downloads_GAD2006_main__1__GAD2006_main_Labwork2_Source_Labwork2_Private_GameGrid_h
+#define CURRENT_FILE_ID FID_GitHub_GAD2006_2_GAD2006_Melisa_Labwork2_Source_Labwork2_Private_GameGrid_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

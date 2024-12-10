@@ -152,14 +152,14 @@ AUnitBase::~AUnitBase() {}
 // End Class AUnitBase
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_melis_Downloads_GAD2006_main__1__GAD2006_main_Labwork2_Source_Labwork2_Public_UnitBase_h_Statics
+struct Z_CompiledInDeferFile_FID_GitHub_GAD2006_2_GAD2006_Melisa_Labwork2_Source_Labwork2_Public_UnitBase_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AUnitBase, AUnitBase::StaticClass, TEXT("AUnitBase"), &Z_Registration_Info_UClass_AUnitBase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AUnitBase), 2874321214U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_melis_Downloads_GAD2006_main__1__GAD2006_main_Labwork2_Source_Labwork2_Public_UnitBase_h_309094619(TEXT("/Script/Labwork2"),
-	Z_CompiledInDeferFile_FID_Users_melis_Downloads_GAD2006_main__1__GAD2006_main_Labwork2_Source_Labwork2_Public_UnitBase_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_melis_Downloads_GAD2006_main__1__GAD2006_main_Labwork2_Source_Labwork2_Public_UnitBase_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHub_GAD2006_2_GAD2006_Melisa_Labwork2_Source_Labwork2_Public_UnitBase_h_309094619(TEXT("/Script/Labwork2"),
+	Z_CompiledInDeferFile_FID_GitHub_GAD2006_2_GAD2006_Melisa_Labwork2_Source_Labwork2_Public_UnitBase_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GitHub_GAD2006_2_GAD2006_Melisa_Labwork2_Source_Labwork2_Public_UnitBase_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeLabwork2_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xEB45BAF5,
+				0xE3BE617F,
 				0x141EF3C5,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeLabwork2_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_Labwork2.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Labwork2(Z_Construct_UPackage__Script_Labwork2, TEXT("/Script/Labwork2"), Z_Registration_Info_UPackage__Script_Labwork2, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xEB45BAF5, 0x141EF3C5));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Labwork2(Z_Construct_UPackage__Script_Labwork2, TEXT("/Script/Labwork2"), Z_Registration_Info_UPackage__Script_Labwork2, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xE3BE617F, 0x141EF3C5));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

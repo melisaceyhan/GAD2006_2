@@ -1,11 +1,11 @@
-"C:\Users\melis\Downloads\GAD2006-main (1)\GAD2006-main\Labwork2\Source\Labwork2\Labwork2.cpp"
-/FI"C:\Users\melis\Downloads\GAD2006-main (1)\GAD2006-main\Labwork2\Intermediate\Build\Win64\x64\Labwork2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/FI"C:\Users\melis\Downloads\GAD2006-main (1)\GAD2006-main\Labwork2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Labwork2\Definitions.Labwork2.h"
-/Yu"C:\Users\melis\Downloads\GAD2006-main (1)\GAD2006-main\Labwork2\Intermediate\Build\Win64\x64\Labwork2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"C:\Users\melis\Downloads\GAD2006-main (1)\GAD2006-main\Labwork2\Intermediate\Build\Win64\x64\Labwork2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
-/Fo"C:\Users\melis\Downloads\GAD2006-main (1)\GAD2006-main\Labwork2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Labwork2\Labwork2.cpp.obj"
-/sourceDependencies "C:\Users\melis\Downloads\GAD2006-main (1)\GAD2006-main\Labwork2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Labwork2\Labwork2.cpp.dep.json"
-@"C:\Users\melis\Downloads\GAD2006-main (1)\GAD2006-main\Labwork2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Labwork2\Labwork2.Shared.rsp"
+"C:\GitHub\GAD2006_2\GAD2006_Melisa\Labwork2\Source\Labwork2\Labwork2.cpp"
+/FI"C:\GitHub\GAD2006_2\GAD2006_Melisa\Labwork2\Intermediate\Build\Win64\x64\Labwork2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/FI"C:\GitHub\GAD2006_2\GAD2006_Melisa\Labwork2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Labwork2\Definitions.Labwork2.h"
+/Yu"C:\GitHub\GAD2006_2\GAD2006_Melisa\Labwork2\Intermediate\Build\Win64\x64\Labwork2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/Fp"C:\GitHub\GAD2006_2\GAD2006_Melisa\Labwork2\Intermediate\Build\Win64\x64\Labwork2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Fo"C:\GitHub\GAD2006_2\GAD2006_Melisa\Labwork2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Labwork2\Labwork2.cpp.obj"
+/sourceDependencies "C:\GitHub\GAD2006_2\GAD2006_Melisa\Labwork2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Labwork2\Labwork2.cpp.dep.json"
+@"C:\GitHub\GAD2006_2\GAD2006_Melisa\Labwork2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Labwork2\Labwork2.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
