@@ -9,7 +9,7 @@
 #include "NetAvatar.generated.h"
 
 /**
- *
+ * 
  */
 UCLASS()
 class ANetAvatar : public ANetBaseCharacter
@@ -49,5 +49,5 @@ private:
 	void MoveRight(float Amount);
 	void RunPressed();
 	void RunReleased();
-
+	
 };
